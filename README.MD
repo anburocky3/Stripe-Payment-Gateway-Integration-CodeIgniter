@@ -6,9 +6,11 @@
 ![Card Entering Form](https://s17.postimg.org/ylmc23zgf/image.png)
 
 2. If Card is valid, Will Charge the Card
+
 ![If Card is valid, Will Charge the card](https://s17.postimg.org/qsvoa5gmn/image.png)
 
 3. If Anything goes Wrong, display Failure page
+
 ![If Anything goes Wrong, display Failure page](https://s17.postimg.org/zb54ehuv3/image.png)
 
 <div style="line-height:3rem">
