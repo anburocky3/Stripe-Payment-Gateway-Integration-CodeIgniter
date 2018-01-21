@@ -1,14 +1,14 @@
 # Stripe-Gateway-Integration-CodeIgniter 3.1.7
 
 <h3>#Screenshots Overview</h3>
-1. Card Entering Form
- ![Card Entering Form](https://s17.postimg.org/ylmc23zgf/image.png)
+1. Card Entering Form.
+![Card Entering Form](https://s17.postimg.org/ylmc23zgf/image.png)
 
 2. If Card is valid, Will Charge the Card
- ![If Card is valid, Will Charge the card](https://s17.postimg.org/qsvoa5gmn/image.png)
+![If Card is valid, Will Charge the card](https://s17.postimg.org/qsvoa5gmn/image.png)
 
 3. If Anything goes Wrong, display Failure page
- ![If Anything goes Wrong, display Failure page](https://s17.postimg.org/zb54ehuv3/image.png)
+![If Anything goes Wrong, display Failure page](https://s17.postimg.org/zb54ehuv3/image.png)
 
 <div style="line-height:3rem">
 	<h6>Quick steps to integrate to your web/app on the go!</h6>
