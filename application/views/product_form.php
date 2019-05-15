@@ -8,14 +8,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<title>Stripe Gateway Integration | Codeigniter</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
 
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/style.css" />    
 
     <!-- jQuery is used only for this example; it isn't required to use Stripe -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
-	<link rel="stylesheet" href="<?php echo base_url(); ?>/assets/js/bootstrap.min.js" />
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js" />
 
     <!-- Stripe JavaScript library -->
     <script type="text/javascript" src="https://js.stripe.com/v2/"></script>    
@@ -106,7 +106,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	    <div class="jumbotron">
 	      <div class="container-fluid">
 	        <h1 class="display-5">Hello, Developers!</h1>
-	        <p>This project will guide you to integrate International Payment Gateway "Stripe" in Codeigniter <span class="badge bg-primary badge-pill"><?php echo CI_VERSION; ?></span> with Bootstrap 4. Understand how Stripe Gateway works and implement to your web/app accordingly. if you need any minor help <a href="<?php echo base_url(); ?>welcome/help">contact us</a> here. You can also use Learn more button below</p>
+	        <p>This project will guide you to integrate International Payment Gateway "Stripe" in Codeigniter <span class="badge bg-primary badge-pill text-white"><?php echo CI_VERSION; ?></span> with Bootstrap 4. Understand how Stripe Gateway works and implement to your web/app accordingly. if you need any minor help <a href="<?php echo base_url(); ?>welcome/help">contact us</a> here. You can also use Learn more button below</p>
 	        <p><a class="btn btn-primary btn-lg" href="<?php echo base_url(); ?>Welcome/help" role="button">Learn more &raquo;</a></p>
 	      </div>
 	    </div>
@@ -214,6 +214,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         			<ol>
         				<li> <a href="https://stripe.com/docs" target="_blank">Stripe Docs</a> </li>
         				<li> <a href="https://stripe.com/docs/checkout" target="_blank">Stripe Checkout</a></li>
+        				<li> <a href="https://stripe.com/docs/error-codes" target="_blank">Stripe Error Codes</a></li>
 
         			</ol>
         		</div>
