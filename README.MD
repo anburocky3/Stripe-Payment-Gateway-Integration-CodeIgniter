@@ -1,18 +1,22 @@
-# Stripe-Gateway-Integration-CodeIgniter 3.1.7
+# Stripe-Gateway-Integration-CodeIgniter 3.1.10
 
 <h3>#Screenshots Overview</h3>
 1. Card Entering Form
 
 
-![Card Entering Form](https://s17.postimg.org/ylmc23zgf/image.png)
+<!-- ![Card Entering Form](https://s17.postimg.org/ylmc23zgf/image.png) -->
+![Card Entering Form](/screenshots/homepage.png?raw=true "Card Entering Form")
+
 
 2. If Card is valid, Will Charge the Card
 
-![If Card is valid, Will Charge the card](https://s17.postimg.org/qsvoa5gmn/image.png)
+<!-- ![If Card is valid, Will Charge the card](https://s17.postimg.org/qsvoa5gmn/image.png) -->
+![If Card is valid, Will Charge the card](/screenshots/payment_success.png?raw=true")
 
 3. If Anything goes Wrong, display Failure page
 
-![If Anything goes Wrong, display Failure page](https://s17.postimg.org/zb54ehuv3/image.png)
+<!-- ![If Anything goes Wrong, display Failure page](https://s17.postimg.org/zb54ehuv3/image.png) -->
+![If Anything goes Wrong, display Failure page](/screenshots/payment_failure.png?raw=true)
 
 <div style="line-height:3rem">
 	<h6>Quick steps to integrate to your web/app on the go!</h6>
@@ -39,3 +43,12 @@
 		<li><em>Welcome.php/help</em> Method - Displays the quick integration help page.</li>
 	</ol>
 </div>
+
+<div class="card-footer">
+	<h6><strong>Changelogs</strong></h6>
+	<ol>
+		<li><b>15th May, 2019</b> - Updated from<code>3.1.7</code> to<code>3.1.10</code></li>
+	</ol>
+</div>
+
+
