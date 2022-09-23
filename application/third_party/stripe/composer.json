@@ -21,9 +21,9 @@
     "ext-mbstring": "*"
   },
   "require-dev": {
-    "phpunit/phpunit": "~4.0",
-    "satooshi/php-coveralls": "~0.6.1",
-    "squizlabs/php_codesniffer": "~2.0"
+    "phpunit/phpunit": "4.8.36",
+    "satooshi/php-coveralls": "0.6.1",
+    "squizlabs/php_codesniffer": "2.9.2"
   },
   "autoload": {
     "psr-4": { "Stripe\\" : "lib/" }
